@@ -1,3 +1,3 @@
-FROM bash
+FROM node:14
 
-RUN ls
+RUN echo "xyz"
